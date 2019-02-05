@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549377888607.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "268BDB6D",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1549377888607,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "572120F2",
+        "caption" : "three_gram_united",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=three_gram_united&cache_key=572120F2",
+        "displayedObservations" : "5012",
+        "environment" : "",
+        "object" : "three_gram_united",
+        "preview" : "0",
+        "totalObservations" : "5012",
+        "variables" : "2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

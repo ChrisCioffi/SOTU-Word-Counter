@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549377701539.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2DC8A0C6",
+    "lastKnownWriteTime" : 2317438867737763632,
+    "last_content_update" : 1549377701539,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FCF2750B",
+        "caption" : "bigrams_united",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=bigrams_united&cache_key=FCF2750B",
+        "displayedObservations" : "4276",
+        "environment" : "",
+        "object" : "bigrams_united",
+        "preview" : "0",
+        "totalObservations" : "4276",
+        "variables" : "2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

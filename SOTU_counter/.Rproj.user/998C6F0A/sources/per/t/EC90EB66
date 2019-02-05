@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549315561051.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2637189977",
+    "id" : "EC90EB66",
+    "lastKnownWriteTime" : 1549378037,
+    "last_content_update" : 1549378037865,
+    "path" : "~/R_Projects/SOTU_counter/Word counter Trump.R",
+    "project_path" : "Word counter Trump.R",
+    "properties" : {
+        "cursorPosition" : "56,153",
+        "scrollLine" : "52"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
